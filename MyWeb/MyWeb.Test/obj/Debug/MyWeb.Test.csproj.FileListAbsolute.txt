@@ -1,0 +1,17 @@
+D:\测试Code\MyERPWeb\MyWeb\MyWeb.Test\obj\Debug\MyWeb.Test.csprojResolveAssemblyReference.cache
+D:\测试Code\MyERPWeb\MyWeb\MyWeb.Test\bin\Debug\MyWeb.Test.exe.config
+D:\测试Code\MyERPWeb\MyWeb\MyWeb.Test\bin\Debug\MyWeb.Test.exe
+D:\测试Code\MyERPWeb\MyWeb\MyWeb.Test\bin\Debug\MyWeb.Test.pdb
+D:\测试Code\MyERPWeb\MyWeb\MyWeb.Test\bin\Debug\MyWeb.DataAccess.dll
+D:\测试Code\MyERPWeb\MyWeb\MyWeb.Test\bin\Debug\MyWeb.IDataAccess.dll
+D:\测试Code\MyERPWeb\MyWeb\MyWeb.Test\bin\Debug\MyWeb.Model.dll
+D:\测试Code\MyERPWeb\MyWeb\MyWeb.Test\bin\Debug\EntityFramework.dll
+D:\测试Code\MyERPWeb\MyWeb\MyWeb.Test\bin\Debug\MyWeb.DataAccess.pdb
+D:\测试Code\MyERPWeb\MyWeb\MyWeb.Test\bin\Debug\MyWeb.IDataAccess.pdb
+D:\测试Code\MyERPWeb\MyWeb\MyWeb.Test\bin\Debug\MyWeb.Model.pdb
+D:\测试Code\MyERPWeb\MyWeb\MyWeb.Test\bin\Debug\EntityFramework.xml
+D:\测试Code\MyERPWeb\MyWeb\MyWeb.Test\obj\Debug\MyWeb.Test.exe
+D:\测试Code\MyERPWeb\MyWeb\MyWeb.Test\obj\Debug\MyWeb.Test.pdb
+D:\测试Code\MyERPWeb\MyWeb\MyWeb.Test\bin\Debug\zh-Hans\EntityFramework.resources.dll
+D:\测试Code\MyERPWeb\MyWeb\MyWeb.Test\bin\Debug\EntityFramework.SqlServer.dll
+D:\测试Code\MyERPWeb\MyWeb\MyWeb.Test\bin\Debug\EntityFramework.SqlServer.xml

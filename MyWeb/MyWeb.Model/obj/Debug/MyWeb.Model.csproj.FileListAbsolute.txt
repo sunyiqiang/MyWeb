@@ -1,0 +1,10 @@
+D:\测试Code\MyERPWeb\MyWeb\MyWeb.Model\bin\Debug\MyWeb.Model.dll.config
+D:\测试Code\MyERPWeb\MyWeb\MyWeb.Model\bin\Debug\MyWeb.Model.dll
+D:\测试Code\MyERPWeb\MyWeb\MyWeb.Model\bin\Debug\MyWeb.Model.pdb
+D:\测试Code\MyERPWeb\MyWeb\MyWeb.Model\bin\Debug\EntityFramework.dll
+D:\测试Code\MyERPWeb\MyWeb\MyWeb.Model\bin\Debug\EntityFramework.SqlServer.dll
+D:\测试Code\MyERPWeb\MyWeb\MyWeb.Model\bin\Debug\EntityFramework.xml
+D:\测试Code\MyERPWeb\MyWeb\MyWeb.Model\bin\Debug\EntityFramework.SqlServer.xml
+D:\测试Code\MyERPWeb\MyWeb\MyWeb.Model\bin\Debug\zh-Hans\EntityFramework.resources.dll
+D:\测试Code\MyERPWeb\MyWeb\MyWeb.Model\obj\Debug\MyWeb.Model.dll
+D:\测试Code\MyERPWeb\MyWeb\MyWeb.Model\obj\Debug\MyWeb.Model.pdb

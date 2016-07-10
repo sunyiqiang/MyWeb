@@ -1,0 +1,11 @@
+D:\测试Code\MyERPWeb\MyWeb\MyWeb.Demo\bin\Debug\MyWeb.Demo.exe.config
+D:\测试Code\MyERPWeb\MyWeb\MyWeb.Demo\bin\Debug\MyWeb.Demo.exe
+D:\测试Code\MyERPWeb\MyWeb\MyWeb.Demo\bin\Debug\MyWeb.Demo.pdb
+D:\测试Code\MyERPWeb\MyWeb\MyWeb.Demo\bin\Debug\MyWeb.Model.dll
+D:\测试Code\MyERPWeb\MyWeb\MyWeb.Demo\bin\Debug\EntityFramework.dll
+D:\测试Code\MyERPWeb\MyWeb\MyWeb.Demo\bin\Debug\MyWeb.Model.pdb
+D:\测试Code\MyERPWeb\MyWeb\MyWeb.Demo\bin\Debug\EntityFramework.xml
+D:\测试Code\MyERPWeb\MyWeb\MyWeb.Demo\bin\Debug\zh-Hans\EntityFramework.resources.dll
+D:\测试Code\MyERPWeb\MyWeb\MyWeb.Demo\obj\Debug\MyWeb.Demo.exe
+D:\测试Code\MyERPWeb\MyWeb\MyWeb.Demo\obj\Debug\MyWeb.Demo.pdb
+D:\测试Code\MyERPWeb\MyWeb\MyWeb.Demo\obj\Debug\MyWeb.Demo.csprojResolveAssemblyReference.cache

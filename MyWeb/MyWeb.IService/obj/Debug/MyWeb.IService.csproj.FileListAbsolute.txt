@@ -1,0 +1,10 @@
+D:\测试Code\MyERPWeb\MyWeb\MyWeb.IService\bin\Debug\MyWeb.IService.dll
+D:\测试Code\MyERPWeb\MyWeb\MyWeb.IService\bin\Debug\MyWeb.IService.pdb
+D:\测试Code\MyERPWeb\MyWeb\MyWeb.IService\obj\Debug\MyWeb.IService.dll
+D:\测试Code\MyERPWeb\MyWeb\MyWeb.IService\obj\Debug\MyWeb.IService.pdb
+D:\测试Code\MyERPWeb\MyWeb\MyWeb.IService\bin\Debug\MyWeb.Model.dll
+D:\测试Code\MyERPWeb\MyWeb\MyWeb.IService\bin\Debug\EntityFramework.dll
+D:\测试Code\MyERPWeb\MyWeb\MyWeb.IService\bin\Debug\MyWeb.Model.pdb
+D:\测试Code\MyERPWeb\MyWeb\MyWeb.IService\bin\Debug\EntityFramework.xml
+D:\测试Code\MyERPWeb\MyWeb\MyWeb.IService\bin\Debug\zh-Hans\EntityFramework.resources.dll
+D:\测试Code\MyERPWeb\MyWeb\MyWeb.IService\obj\Debug\MyWeb.IService.csprojResolveAssemblyReference.cache

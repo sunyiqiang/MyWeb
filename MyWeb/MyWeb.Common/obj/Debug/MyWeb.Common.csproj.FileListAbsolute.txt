@@ -1,0 +1,4 @@
+D:\测试Code\MyERPWeb\MyWeb\MyWeb.Common\bin\Debug\MyWeb.Common.dll
+D:\测试Code\MyERPWeb\MyWeb\MyWeb.Common\bin\Debug\MyWeb.Common.pdb
+D:\测试Code\MyERPWeb\MyWeb\MyWeb.Common\obj\Debug\MyWeb.Common.dll
+D:\测试Code\MyERPWeb\MyWeb\MyWeb.Common\obj\Debug\MyWeb.Common.pdb

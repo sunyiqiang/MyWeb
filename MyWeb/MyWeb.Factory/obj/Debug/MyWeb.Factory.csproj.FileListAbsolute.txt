@@ -1,0 +1,12 @@
+D:\测试Code\MyERPWeb\MyWeb\MyWeb.Factory\bin\Debug\MyWeb.Factory.dll
+D:\测试Code\MyERPWeb\MyWeb\MyWeb.Factory\bin\Debug\MyWeb.Factory.pdb
+D:\测试Code\MyERPWeb\MyWeb\MyWeb.Factory\bin\Debug\EntityFramework.dll
+D:\测试Code\MyERPWeb\MyWeb\MyWeb.Factory\bin\Debug\EntityFramework.SqlServer.dll
+D:\测试Code\MyERPWeb\MyWeb\MyWeb.Factory\bin\Debug\MyWeb.Model.dll
+D:\测试Code\MyERPWeb\MyWeb\MyWeb.Factory\bin\Debug\MyWeb.Model.pdb
+D:\测试Code\MyERPWeb\MyWeb\MyWeb.Factory\bin\Debug\EntityFramework.xml
+D:\测试Code\MyERPWeb\MyWeb\MyWeb.Factory\bin\Debug\EntityFramework.SqlServer.xml
+D:\测试Code\MyERPWeb\MyWeb\MyWeb.Factory\obj\Debug\MyWeb.Factory.csprojResolveAssemblyReference.cache
+D:\测试Code\MyERPWeb\MyWeb\MyWeb.Factory\obj\Debug\MyWeb.Factory.dll
+D:\测试Code\MyERPWeb\MyWeb\MyWeb.Factory\obj\Debug\MyWeb.Factory.pdb
+D:\测试Code\MyERPWeb\MyWeb\MyWeb.Factory\bin\Debug\zh-Hans\EntityFramework.resources.dll
